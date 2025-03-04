@@ -1,4 +1,6 @@
 # **LHMM: A Tightly-Coupled LiDAR-Inertial Hybrid-Map Matching Approach for Robust and Efficient Global Localization**
+Submitted to IROS 2025.
+
 > **⚠️ The code and demo will be released soon. Stay tuned by starring and watching the repository!**
 ---
 
