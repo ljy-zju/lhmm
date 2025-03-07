@@ -31,11 +31,13 @@ The code is currently being prepared. The following will be provided soon:
 
 ---
 
-## 📺 **Demo Video (Coming Soon)**
-Planned demo releases:
-- **RViz visualization of localization & mapping**
-- **Trajectory & error analysis**
-- **Experiments in various environments**
+## 📺 **Demo Video**
+[![Bilibili Icon](https://img.icons8.com/color/18/bilibili.png)](https://www.bilibili.com/video/BV1cu9CYNEDC/) [Demo video](https://www.bilibili.com/video/BV1cu9CYNEDC/)
+
+**This demo showcases:**
+1. Skeletonization-based compression of prior maps
+2. Local map updates under the hole-aware keyframe mechanism
+3. Localization performance and comparisons in challenging scenarios
 
 ---
 
